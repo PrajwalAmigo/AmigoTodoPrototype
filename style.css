@@ -1,0 +1,45 @@
+#textBox {
+    width: 100%;
+    border: solid 1px;
+    padding: 10px;
+    border-radius: 25px;
+  }
+
+  #dueDate {
+    width: 100%;
+    border: solid 1px;
+    padding: 10px;
+    border-radius: 25px;
+    text-align: center;
+  }
+
+  #addTaskButton {
+    float: right;
+  }
+
+  #taskList {
+    padding-top: 30px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 30px;
+    border: solid 1px;
+    margin: 5px;
+    border-radius: 25px;
+  }
+
+  .deleteButton {
+    position: fixed;
+    right: 20px;
+    border-radius: 20px;
+    background-color: rgb(255, 112, 112);
+  }
+
+  .newTask {
+    padding: 15px;
+  }
+
+  .checkBoxes {
+    float: left;
+    display: flex;
+    margin: 6px;
+  }
