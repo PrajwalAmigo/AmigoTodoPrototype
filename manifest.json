@@ -1,7 +1,7 @@
 {
     "name": "AmigoToDo Prototype",
     "short_name": "Todo Prototype",
-    "start_url": "index.html",
+    "start_url": "todoList.html",
     "icons":[ {
         "src": "icons/manifest-icon-192.maskable.png",
         "sizes": "192x192",
